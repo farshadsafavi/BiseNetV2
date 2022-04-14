@@ -1,0 +1,10 @@
+Background
+Building Flooded
+Building Non-Flooded
+Road Flooded
+Road Non-Flooded
+Water
+Tree
+Vehicle
+Pool
+Grass
